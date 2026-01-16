@@ -1,0 +1,12 @@
+# Keep these, but ignore internal Spark/Jupyter junk
+metastore_db/
+derby.log
+derby/
+spark-warehouse/
+.ipynb_checkpoints/
+*.log
+__pycache__/
+
+# Allow these specific folders
+# (We don't need to list them here to include them, 
+# we just ensure they aren't blocked above)
