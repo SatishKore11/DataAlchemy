@@ -14,9 +14,13 @@ DataAlchemy is a comprehensive data pipeline project designed to manage, transfo
 - [License](#license)
 
 ---
+
 ## Data Architecture
+
 ![Data Architecture](docs/lakehouse arc.png)
+
 ---
+
 ## Project Overview
 
 DataAlchemy facilitates data engineers in setting up efficient data pipelines, focusing on the transformation of raw data into meaningful insights. It integrates:
